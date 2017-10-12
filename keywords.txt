@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map acInterval
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+acTemperatureClass
+~acTemperatureClass
+begin
+Celsius
+Fahrenheit
+Rankine
+Reaumur
+Romer
+Newton
+Delisle
+average
+humidity
+changed
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
