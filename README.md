@@ -1,10 +1,10 @@
 
-#Library for temperature and relative humidity measurement.
+# Library for temperature and relative humidity measurement.
 
 Description
 ------------
 
-* Nesta versão a tensão de referência (VRef) é 1.1V designada por INTERNAL1V1.
+* In this version the reference voltage (VRef) is 1.1V designated by INTERNAL1V1.
 * Accurate and fast reading method.
 * Read the temperature in Celsius, Fahrenheit, Rankine, Reaumur, Romer, Newton and Delisle.
 * When using two sensors, the relative humidity of the air is also read.
