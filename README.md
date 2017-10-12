@@ -15,7 +15,7 @@ Description
 Help
 ------------
 
-###  acTemperatureClass
+### acTemperatureClass
 
   ```acTemperatureClass(uint8_t VRefOrigin, double VperD);```    
 
