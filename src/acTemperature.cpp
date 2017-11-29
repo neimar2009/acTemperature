@@ -19,7 +19,7 @@ uint8_t resolutionBits() {
       defined(__AVR_ATmega644P__) || defined(__AVR_ATmega644PA__)
     return 10;
   #else
-    return 12;
+    return 10;
   #endif
 }
 
