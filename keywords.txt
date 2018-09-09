@@ -6,23 +6,23 @@
 # Datatypes (KEYWORD1)
 #######################################
 
+acTemperatureClass	KEYWORD1
+
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-acTemperatureClass
-~acTemperatureClass
-begin
-Celsius
-Fahrenheit
-Rankine
-Reaumur
-Romer
-Newton
-Delisle
-average
-humidity
-changed
+begin	KEYWORD2
+Celsius	KEYWORD2
+Fahrenheit	KEYWORD2
+Rankine	KEYWORD2
+Reaumur	KEYWORD2
+Romer	KEYWORD2
+Newton	KEYWORD2
+Delisle	KEYWORD2
+average	KEYWORD2
+humidity	KEYWORD2
+changed	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
