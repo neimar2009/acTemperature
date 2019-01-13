@@ -1,6 +1,6 @@
 
 #include <Arduino.h>
-// #include "AVRs.h"
+#include "AVRs.h"
 #include "acTemperature.h"
 
 
@@ -8,7 +8,7 @@
 // Temporary methods
 /******************************************************************************/
 
-
+/*
 uint8_t resolutionBits() {
 
   #if defined(__AVR_ATtiny24__) || defined(__AVR_ATtiny44__) || defined(__AVR_ATtiny84__) ||  \
@@ -27,7 +27,7 @@ uint16_t resolutionBitsResult() {
 
   return pow( 2, resolutionBits());
 }
-
+*/
 /******************************************************************************/
 // acTemperatureClass
 /******************************************************************************/
